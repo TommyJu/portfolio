@@ -1,8 +1,8 @@
 {
-  "homepage": "https://tommyju.github.io/",
   "name": "student-management-app",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://tommyju.github.io/",
   "dependencies": {
     "axios": "^0.21.1",
     "mssql": "^11.0.1",
