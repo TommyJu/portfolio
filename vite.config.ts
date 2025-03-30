@@ -6,8 +6,5 @@ export default defineConfig({
   base: "/portfolio/",
   server: {
     port: 3000
-  },
-  build: {
-    assetsDir: 'assets',
-  },
+  }
 });
